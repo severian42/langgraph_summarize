@@ -1,0 +1,17 @@
+beautifulsoup4
+langchain
+langgraph
+langchainhub
+langchain-community
+langchain-google-genai
+langchain-ollama
+logging
+black
+isort
+tavily-python
+langchain-chroma
+python-dotenv
+pytest
+google-generativeai
+gradio
+jq
